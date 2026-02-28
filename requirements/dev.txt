@@ -52,7 +52,7 @@ certifi==2026.1.4
     #   -r requirements/base.txt
     #   -r requirements/test.txt
     #   requests
-chardet==5.2.0
+chardet==6.0.0.post1
     # via
     #   -r requirements/base.txt
     #   -r requirements/test.txt

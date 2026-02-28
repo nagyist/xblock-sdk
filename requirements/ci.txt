@@ -6,7 +6,7 @@
 #
 cachetools==7.0.1
     # via tox
-chardet==5.2.0
+chardet==6.0.0.post1
     # via tox
 colorama==0.4.6
     # via tox
