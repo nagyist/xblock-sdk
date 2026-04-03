@@ -67,7 +67,7 @@ mdurl==0.1.2
     # via markdown-it-py
 openedx-django-pyfs==4.0.0
     # via xblock
-pygments==2.19.2
+pygments==2.20.0
     # via rich
 pypng==0.20220715.0
     # via -r requirements/base.in

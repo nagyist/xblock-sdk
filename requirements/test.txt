@@ -141,7 +141,7 @@ pluggy==1.6.0
     #   pytest
     #   pytest-cov
     #   tox
-pygments==2.19.2
+pygments==2.20.0
     # via
     #   -r requirements/base.txt
     #   pytest

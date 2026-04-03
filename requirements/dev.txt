@@ -212,7 +212,7 @@ pycodestyle==2.14.0
     # via -r requirements/quality.in
 pydocstyle==6.3.0
     # via -r requirements/quality.in
-pygments==2.19.2
+pygments==2.20.0
     # via
     #   -r requirements/base.txt
     #   -r requirements/test.txt
